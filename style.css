@@ -19,7 +19,7 @@ body, div, p, ul, ol, li, dl, dt, dd, table, th, td, img, figure, h1, h2, h3, h4
     justify-content: space-between;
     margin: 0 36px;
     max-width: 100%;
-    position: relative;
+    position: relative
 }
 .HeaderContainer>:last-child {
     display: inline-flex;
@@ -100,7 +100,7 @@ a {
     text-decoration: none;
 }
 .FirstView {
-    background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
+    background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 100px;
